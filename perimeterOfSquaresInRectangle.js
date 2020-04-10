@@ -1,6 +1,5 @@
 function perimeter(n) {
     x = [...Array(n + 1).keys()]
-    x
     if (x.length < 3)
         return 4
     x[0] = 1
