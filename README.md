@@ -1,8 +1,6 @@
-# Codewars-Javascript-Solutions
+# Codewars Javascript Solutions
 
 #### Profile: https://www.codewars.com/users/onelineofme/
-
-Codewars Javascript Solutions
 
 https://www.codewars.com/users/onelineofme
 
