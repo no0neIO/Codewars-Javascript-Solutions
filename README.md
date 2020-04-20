@@ -10,3 +10,5 @@
 * [5 kyu] Simple Pig Latin https://www.codewars.com/kata/520b9d2ad5c005041100000f
 
 * [6 kyu] Replace With Alphabet Position https://www.codewars.com/kata/546f922b54af40e1e90001da
+
+* [6 kyu] Sum of Digits / Digital Root https://www.codewars.com/kata/541c8630095125aba6000c00
